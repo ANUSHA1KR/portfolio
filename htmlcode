@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="csscode.css">
+  <title>My Portfolio</title>
+</head>
+<body>
+<!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero">
+          </a>
+        </div>
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#about" data-after="About">About</a></li>
+            <li><a href="#Skills" data-after="Skills">Skills</a></li>
+            <li><a href="#projects" data-after="Projects">Projects</a></li>
+            <li><a href="#Certifications" data-after="Certifications">Certifications</a></li>
+            <li><a href="#contact" data-after="Contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
+
+
+  <!-- Hero Section  -->
+  <section id="hero">
+    <div class="hero container">
+      <div>
+        <h1>Hello, I'm Raghunandan M S<span></span></h1>
+        <h1><span></span></h1>
+        <h1>I'm a <br>DATA ANALYST<span></span></h1>
+        <a href="" type="button" class="cta">RESUME</a>
+      </div>
+    </div>
+  </section>
+  <!-- End Hero Section  -->
+
+
+ <!-- About Section -->
+ <section id="about">
+  <div class="about container">
+    <div class="col-left">
+      <div class="about-img">
+        <img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/0/3/a/03a0554ae1_50175403_data-analyst-data-scientist-formation-metier.jpg" alt="img">
+      </div>
+    </div>
+    <div class="col-right">
+      <h1 class="section-title">About <span>me</span></h1>
+      <!-- <h2>DATA ANALYST</h2> -->
+      
+       <h2>Teaching and Mentorship:</h2> <br><h3>With over 11 years of experience in teaching engineering students, I have honed my ability to convey complex ideas and solutions effectively.
+        Over the past year, I have focused on the Data Science field, continuously learning and applying cutting-edge technologies to solve intricate 
+        problems.</h3>
+
+ <br><br>
+ <h2>Results-Oriented Professional:</h2><br><h3>I am known for achieving optimal results through
+  meticulous work and a results-oriented approach. My expertise lies in fine-tuning processes to enhance efficiency and outcomes.</h3>
+
+<br><br>
+  <h2>Coordination and Event Management:</h2><br><h3>I have a proven track record as a coordinator 
+    and event manager, with expertise in curating event essentials 
+    and ensuring customer satisfaction.</h3>
+
+<br><br>
+<h2>Effective Communication and Collaboration:</h2><br><h3>I have successfully collaborated with students from 
+  diverse disciplines, leveraging my skills to convey 
+  ideas and achieve desired results.</h3>
+
+<br><br>
+<h2>Continuous Learner and Adaptable:</h2><br><h3>I am enthusiastic about meeting new people and learning from various 
+  experiences, and I am open to working in any environment that promotes personal and company growth.</h3>
+
+<br><br>
+<h2>Tech Enthusiast and Blogger:</h2><br><h3>Passionate about technology and gadgets,
+  I am always eager to explore new opportunities in the tech industry. 
+  I also write blogs on technology, covering topics such as smartphones, wearables, and home automation.</h3>
+      </div>
+  </div>
+</section>
+<!-- End About Section -->
+
+
+<!-- skills section -->
+<section id="Skills">
+  <div class="Skills container">
+    <div class="col-right">
+      <h1 class="section-title">Professional <span>Skills</span></h1>
+      <!-- <h2>DATA ANALYST</h2> -->
+      <p>
+       <h1>Statistical Knowledge:</h1> <br><h2>Proficient in descriptive and inferential statistics, including hypothesis testing and regression analysis.</h2>
+ <br><br>
+ <h1>Python Programming:</h1><br><h2>Strong foundation in Python, with experience in libraries like NumPy, pandas, and scikit-learn.</h2>
+
+<br><br>
+  <h1>Data Cleaning & Preprocessing:</h1><br><h2>Expertise in handling missing data, outliers, and feature engineering.</h2>
+
+<br><br>
+<h1>Exploratory Data Analysis (EDA):</h1><br><h2>Skilled in using visualization tools like Matplotlib and Seaborn to uncover insights from data.</h2>
+
+<br><br>
+<h1>Data Modeling:</h1><br><h2>Experienced in supervised and unsupervised learning, including algorithms like regression, decision trees, and clustering.</h2>
+
+<br><br>
+<h1>Machine Learning:</h1><br><h2>Proficient in training and evaluating models using frameworks such as scikit-learn and TensorFlow.</h2>
+<br><br>
+<h1>Database Management (MySQL):</h1><br><h2>Strong knowledge of SQL for querying and managing relational databases.</h2>
+        </p>
+    </div>
+  </div>
+</section>
+<!-- End skills Section -->
+
+
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="projects container">
+      <div class="projects-header">
+        <h1 class="section-title">Recent<span>Projects</span></h1>
+      </div>
+      <div class="all-projects">
+        <div class="project-item">
+          <div class="project-info">
+            
+            <h1>Airplane Crash Analysis using PowerBI</h1>
+            <h2>Skills: Microsoft Power BI Tableau</h2><br>
+            <p>A vast dataset spanning from 1908 to 2023 comprises detailed records of aviation accidents, facilitating the analysis of crash incidents involving both onboard and ground casualties. Utilizing Power Bl, a robust analytical tool, enabled the visualization and interpretation of patterns inherent within these occurrences, thereby aiding in the extraction of valuable insights and the formulation of case studies.</p>
+          </div>
+          <div class="project-img">
+            <img src="https://th.bing.com/th/id/R.aec7808a20f2c2288a79a87b1373a196?rik=qw8%2bY5NAYpfHjQ&riu=http%3a%2f%2fimgproc.airliners.net%2fphotos%2fairliners%2f5%2f4%2f2%2f5409245-v466c51ef5b2-15.jpg&ehk=%2bcS9fkGmVjwZCTVoGIPj9abHIzwSE9NejcnHye5FWc0%3d&risl=&pid=ImgRaw&r=0" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            
+            <h1>Gaming Behaviour Analysis Using MySQL</h1>
+            <h2>Skills: MySQL</h2><br>
+            <p>We possess a comprehensive dataset comprising gaming records encompassing both selection and gameplay activities. This dataset is instrumental in facilitating the evaluation of participants based on various metrics such as frequency of gameplay, efficiency in completing tasks with minimal lives taken, and other pertinent parameters. This enables a thorough assessment of gaming proficiency and quality.</p>
+          </div>
+          <div class="project-img">
+            <img src="https://miro.medium.com/v2/resize:fit:4192/1*yj9_ugyJn6XQ5Da9IqCXyg.jpeg" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+           
+            <h1>Comparative study of Countries in Tableau</h1>
+            <h2>Skills: Tableau Data Visualization</h2><br>
+            <p>Optimised Tableau dashboard to strategize market penetration & target new customers resulting in a 15% improvement in conversion rate. Increased user information by incorporating country fields by 20%, geographic maps, & webpage using Tableau. Utilised Tableau to enable a KPI table & growth indicator shapes, resulting in increased customer acquisition rate by 10%</p>
+          </div>
+          <div class="project-img">
+            <img src="https://geovisualist.com/wp-content/uploads/2022/02/un-country-polygons.png" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            
+            <h1>Reducing time taken for the Mercedes Benz on the test bench</h1>
+            <h2>Skills: Tableau Python (Programming Language). Data Visualization Machine Learning</h2><br>
+            <p>Used Python to clean less than 1 GB of data in the features. Applied Label Encoder to train & test for Machine Learning, resulting in a 50% reduction in training time for Random Forest technique. Predicted the values using XGBoost</p>
+            </div>
+            <div class="project-img">
+              <img src="https://e0.pxfuel.com/wallpapers/170/563/desktop-wallpaper-mercedes-benz-s-coupe-amg-car.jpg" alt="img">
+              </div>
+              </div>
+                <div class="project-item">
+                  <div class="project-info">
+                    
+                    <h1>Health Care PGP project as Capstone Project</h1>
+                    <h2>Skills: Python (Programming Language) MySQL EDA Data Visualization Machine Learning</h2><br>
+                    <p>As part of the curriculum a capstone project was carried out individually to seek whether the person or persons have diabetes based on certain diagnostic measurements.</p>
+                  </div>
+                  <div class="project-img">
+                    <img src="https://th.bing.com/th/id/OIP.khmfN1o4qYREJIJhOl_6swHaEo?w=1280&h=802&rs=1&pid=ImgDetMain" alt="img">
+                  </div>
+                </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Projects Section -->
+
+
+ <!-- certifications Section -->
+ <section id="Certifications">
+  <div class="Certifications container">
+    <div class="Certifications-top">
+      <h1 class="section-title">Certifications</h1>
+      <!-- here i should write some general details on the certificatios sir did -->
+    </div>
+    <div class="Certifications-bottom">
+      <div class="Certifications-item">
+        
+        <h1>Chatbot building course</h1><br>
+        <p>Cognitive Class<br></p>
+      </div>
+      <div class="Certifications-item">
+        
+        <h1>Foundational Artificial Intelligence</h1><br>
+        <p>Nasscom ai</p>
+      </div>
+      <div class="Certifications-item">
+        
+        <h1>Machine Learning using Python</h1><br>
+        <p>Skyfi Labs</p>
+      </div>
+      <div class="Certifications-item">
+        
+        <h1>Python 101 for the Data Science</h1><br>
+        <p>Cognitive class</p>
+        
+      </div>
+      <div class="Certifications-item">
+        
+        <h1>Robotic Process Automation(RPA)</h1><br>
+        <p>GUVI guvi.in</p>
+       
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End certificate Section -->
+
+
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="contact container">
+      <div>
+        <h1 class="section-title">Contact <span>info</span></h1>
+      </div>
+      <div class="contact-items">
+        <div class="contact-item">
+          <div class="icon"><img src="https://images.squarespace-cdn.com/content/v1/609c29ebd0e3cf423ef104d5/1621274601353-O5V7BT3E90YXR8WNJJDX/Mail+logo.JPG" /></div>
+          <div class="contact-info">
+            <h1>Email</h1>
+            <h2>..........@gmail.com</h2>
+            </div>
+            </div>
+              <div class="contact-item">
+                <div class="icon"><img src="https://www.logolynx.com/images/logolynx/d2/d2591573109dd5af4984bbaa73e4dd0d.png" /></div>
+                <div class="contact-info">
+                  <h1>Phone</h1>
+                  <h2>+91-9481301869</h2>
+                </div>
+              </div>
+            <div class="contact-item">
+          <div class="icon"></div>
+          <div class="contact-info">
+            
+            <a href="https://www.linkedin.com/in/raghunandanms?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            type="button" class="cta">
+              <img src="https://th.bing.com/th/id/R.968ea62882943e88bbd318ae5fa67429?rik=02GRssIi97Ll3A&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG38.png&ehk=BbKDpU51%2bymaYWrmiG5x0QAfanWpkombnVGrKC50uIQ%3d&risl=&pid=ImgRaw&r=0"/></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Contact Section -->
+
+
+  <!-- Footer -->
+  <section id="footer">
+    <div class="footer container">
+      <div class="brand">
+        <h1><span>RAGHUNANDAN</span> <span>M S</span></h1>
+      </div>
+      <p>Copyright © 2024 RAGHUNANDAN M S. All rights reserved</p>
+    </div>
+  </section>
+  <!-- End Footer -->
+  <script src="jscode.js"></script>
+</body>
+
+</html>
